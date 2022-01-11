@@ -1,5 +1,3 @@
-# JOET-ERC20Token
-
 # Research on Security tokens on Ethereum
 
 - When bitcoin was born, cryptocurrency was only considered as digital currency.
